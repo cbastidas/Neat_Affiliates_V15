@@ -3,7 +3,7 @@ export const runtime = "nodejs";
 import { NextResponse } from "next/server";
 import axios from "axios";
 
-const API_URL = "https://admin.throneneataffiliates.com/feeds.php?FEED_ID=26";
+const API_URL = "https://admin2.neataffiliates.com/feeds.php?FEED_ID=26";
 const API_USERNAME = "signupapi";
 const API_PASSWORD = "J8az&X(4IkuUaOS!8p3R";
 
